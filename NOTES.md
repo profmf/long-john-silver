@@ -13,3 +13,9 @@ https://github.com/openai/openai-python
 ```
 pip install openai
 ```
+
+### push to prof  
+```
+git remote set-url origin git@github.com-work:profmf/long-john-silver.git
+git push -u origin main 
+```
