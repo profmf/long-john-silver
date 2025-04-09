@@ -1,3 +1,6 @@
+## info gemini api
+https://ai.google.dev/gemini-api/docs/text-generation
+
 ### Datasets
 https://www.kaggle.com/datasets
 
@@ -19,3 +22,8 @@ pip install openai
 git remote set-url origin git@github.com-work:profmf/long-john-silver.git
 git push -u origin main 
 ```
+
+## Altro materiale
+https://gandalf.lakera.ai/baseline  
+
+https://www.lakera.ai/ai-security-guides/building-ai-security-awareness-through-red-teaming-with-gandalf
